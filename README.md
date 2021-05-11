@@ -19,9 +19,12 @@
 * module: mysql-connector (see requirements.txt)
 
 # VS Code Plugins
-
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 * [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
+# Other references
+* [TKinter Docs](https://tkdocs.com/shipman/index.html)
+* [Crash Course](https://www.youtube.com/watch?v=YXPyB4XeYLA)
