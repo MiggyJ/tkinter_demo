@@ -11,7 +11,8 @@
     - to activate, run ```[foldername]\scripts\activate```
 2. Install modules from requirements.txt.
     - ```pip install -r requirements.txt```
-3. Run the file.
+3. Import [tkinter_demo.sql](tkinter_demo.sql).
+4. Run the file.
     - ```py db.py```
 
 # Requirements
